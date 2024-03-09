@@ -1,1 +1,1 @@
-# truisms
+# Truisms
